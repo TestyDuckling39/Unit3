@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Image Gallery</title>
+
+</head>
+<body>
+  <h1>My Image Gallery</h1>
+  <img src="Banana.jpg" alt="image 1">
+  <img src="Orange Peel.jpg" alt="image 2">
+  <img src="Grape Vine.jpg" alt="image 3">
+  <img src="Mango.jpg" alt="image 4">
+  <img src="Polar Bear.jpg" alt="image 5">
+</body>
+</html>
